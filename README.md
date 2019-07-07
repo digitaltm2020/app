@@ -3,7 +3,10 @@
 This Repository is intended for the Digital Toastmasters application
 
 We are Planning to Create an App for the Following Roles
+
+
 Term	Full Form	Role	Full Form
+
 WHQ	World Head quarters	IP	International President
 BOD	Board of Directors	CEO	Chief Executive officer
 RG	Region	RD	Regional Director
